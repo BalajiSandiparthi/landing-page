@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.eee41481.css",
+    "main.js": "/landing-page/static/js/main.55abd0bb.js",
+    "static/media/inception1.jpg": "/landing-page/static/media/inception1.ab7b149c030a5259528a.jpg",
+    "static/media/mirage1.jpg": "/landing-page/static/media/mirage1.dfe2cfd592798e173684.jpg",
+    "static/media/terminal1.jpg": "/landing-page/static/media/terminal1.c473645e4febe3838850.jpg",
+    "index.html": "/landing-page/index.html",
+    "main.eee41481.css.map": "/landing-page/static/css/main.eee41481.css.map",
+    "main.55abd0bb.js.map": "/landing-page/static/js/main.55abd0bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee41481.css",
+    "static/js/main.55abd0bb.js"
+  ]
+}
